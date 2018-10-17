@@ -1,0 +1,15 @@
+/*
+  *Created by davidlao99
+*/
+
+
+//Create Class
+public class HelloWorld{
+  //Main Method
+  public static void main(String[] args){
+  
+    //Using System.out Method to print 'Hello World'
+    
+    System.out.println("Hello World");
+  }
+}
