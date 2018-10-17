@@ -1,0 +1,17 @@
+/*
+ Created by Bunchie
+ github.com/bunchiesonfire
+*/
+//Create class
+public class HelloWorld {
+  
+  //main method
+  public static void main(String[] args) {
+  
+    //Instantiating String to print
+    String toPrint = "Hello World!";
+    
+    //Printing out toPrint String
+    System.out.println(toPrint);
+  }
+}
