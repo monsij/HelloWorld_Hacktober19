@@ -6,4 +6,4 @@ Place: India
 
 Bio: I'm a developer at a MNC. I love others by helping them with coding, and love GitHub.
 
-GitHub: [Barathwaja S] (https://github.com/Barathwaja)
+GitHub: [Barathwaja S](https://github.com/Barathwaja)
