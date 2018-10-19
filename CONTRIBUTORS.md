@@ -1,6 +1,6 @@
-# List of contributors for Hactoberfest'18
+# List of contributors for Hactoberfest'18<br>
 
-Name: Viet Than
-Place: Vanderbilt University & Vietnam
-Bio: Dabbling, dabbling, đabbling away
-GitHub: <a href="https://github.com/VietThan">GitHub Link</a>
+Name: Viet Than<br>
+Place: Vanderbilt University & Vietnam<br>
+Bio: Dabbling, dabbling, đabbling away<br>
+GitHub: <a href="https://github.com/VietThan">GitHub Link</a><br>
