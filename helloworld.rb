@@ -1,1 +1,1 @@
-puts "Hello World, what is up Hacktoberfest 2018!"
+puts "Hello World, what is up Hacktoberfest 2018!  Nice to be here."
