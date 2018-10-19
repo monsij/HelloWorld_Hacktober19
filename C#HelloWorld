@@ -1,0 +1,10 @@
+
+//main method to run
+static void Main() {
+  
+  //store what we want to print out into a variable
+  String toString = "Hello World!";
+  
+  //output the stored string onto the console (print)
+  Console.WriteLine(toString);
+}
