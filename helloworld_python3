@@ -1,0 +1,13 @@
+'''Created by Joshaua Smart Hacktoberfest18
+    Hello, world program using python 3'''
+
+#basic hello world
+
+#print function" Hello world"
+print("Hello, World")
+
+#in python 3 you can use either ' ' or " " to indicate a string. 
+print('Hello, World')
+
+'''I hope this has helped any beginners that are curious to learn python
+    or that are stuck on how to ouput Hello, World! good luck in journeys'''
