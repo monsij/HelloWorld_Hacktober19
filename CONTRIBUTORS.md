@@ -1,4 +1,4 @@
 # List of contributors for Hactoberfest'18
 Name: Himanshu Gupta
-  -Place: Indore, India
+  -Place: Indore, India.
   -GitHub: github.com/himanshu28m
