@@ -1,0 +1,6 @@
+//created by Juan Vera: github.com/bunchiesonfire
+//initializes variable to what we want to print out
+var toPrint = "Hello World!";
+
+//prints out our variable as an alert message
+alert(toPrint);
