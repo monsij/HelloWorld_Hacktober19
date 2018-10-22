@@ -9,3 +9,9 @@ I work on iOS Development majorly, with two apps on the store. Data Analysis fas
 
 [Check out my GitHub](https://github.com/AnuritaS/)
 
+# Harsh Trivedi
+
+I’m a student and a tech lover currently living in Kanpur, Uttar Pradesh, India. I like designing, coding, blogging, tweaking some softwares imagining a lot of alien stuff!
+
+[You can know more about me here](https://harsh98trivedi.github.io/blog/Hello-World)
+
