@@ -31,3 +31,11 @@ I’m a student and a tech lover currently living in Kanpur, Uttar Pradesh, Indi
 # Riya Waghmare
 
 - [Github](https://github.com/RiyaWaghmare)
+
+
+=======
+# Blessing Pariola
+
+I'm a student studying in Kwara State University, Nigeria. I'm a tech enthusiast and i work with Javascript/NodeJS
+- [My Website](https://blessing.pario.la)
+- [Github](https://github.com/pariola)
