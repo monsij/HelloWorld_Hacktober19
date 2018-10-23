@@ -1,4 +1,4 @@
-# List of contributors for Hactoberfest'18
+# List of contributors for Hacktoberfest'18
 
 # Anurita Srivastava
 
@@ -31,3 +31,11 @@ I’m a student and a tech lover currently living in Kanpur, Uttar Pradesh, Indi
 # Riya Waghmare
 
 - [Github](https://github.com/RiyaWaghmare)
+
+
+=======
+
+# Adrià Cabeza
+
+- [Github](https://github.com/adriacabeza)
+
