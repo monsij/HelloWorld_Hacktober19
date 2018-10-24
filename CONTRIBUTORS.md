@@ -33,6 +33,14 @@ I’m a student and a tech lover currently living in Kanpur, Uttar Pradesh, Indi
 - [Github](https://github.com/RiyaWaghmare)
 
 =======
+# Blessing Pariola
+
+I'm a student studying in Kwara State University, Nigeria. I'm a tech enthusiast and i work with Javascript/NodeJS
+
+- [My Website](https://blessing.pario.la)
+- [Github](https://github.com/pariola)
+
+=======
 # Appygal
 
 I am a front end developer and new to github and open source. I want to learn open source and contribute to non profit projects to help. 
