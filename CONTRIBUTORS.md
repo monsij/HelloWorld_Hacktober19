@@ -31,3 +31,10 @@ I’m a student and a tech lover currently living in Kanpur, Uttar Pradesh, Indi
 # Riya Waghmare
 
 - [Github](https://github.com/RiyaWaghmare)
+
+=======
+# Appygal
+
+I am a front end developer and new to github and open source. I want to learn open source and contribute to non profit projects to help. 
+
+- [Github](https://github.com/appygal)
