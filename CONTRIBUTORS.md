@@ -31,3 +31,8 @@ I’m a student and a tech lover currently living in Kanpur, Uttar Pradesh, Indi
 # Riya Waghmare
 
 - [Github](https://github.com/RiyaWaghmare)
+
+=======
+# Jack Hedaya
+
+- [Github](https://github.com/jackHedaya)
