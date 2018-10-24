@@ -37,5 +37,23 @@ I’m a student and a tech lover currently living in Kanpur, Uttar Pradesh, Indi
 
 # Adrià Cabeza
 
+I'm a student studying Computer Science in UPC, Barcelona. I do love ML and with this Hacktoberfest I am starting to collaborate in others people repositories.
+
 - [Github](https://github.com/adriacabeza)
+
+=======
+=======
+# Blessing Pariola
+
+I'm a student studying in Kwara State University, Nigeria. I'm a tech enthusiast and i work with Javascript/NodeJS
+
+- [My Website](https://blessing.pario.la)
+- [Github](https://github.com/pariola)
+
+=======
+# Appygal
+
+I am a front end developer and new to github and open source. I want to learn open source and contribute to non profit projects to help. 
+
+- [Github](https://github.com/appygal)
 
