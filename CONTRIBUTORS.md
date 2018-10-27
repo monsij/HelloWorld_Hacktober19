@@ -46,3 +46,12 @@ I'm a student studying in Kwara State University, Nigeria. I'm a tech enthusiast
 I am a front end developer and new to github and open source. I want to learn open source and contribute to non profit projects to help. 
 
 - [Github](https://github.com/appygal)
+
+=======
+# Jaideep Sagar
+
+I am a newbie to open source world though I am a computer science postgraduate student. I am currently living here in Delhi, India. I like coding, reading, listening music. Sketching and fantasy novels intrigues me a lot.
+
+I am quite comfortable with C++, Java and Python. I am interested in learning anything related to Machine learning, Data Science etc. also I am interested in learning some app development.
+
+[Check out my GitHub](https://github.com/JaideepSagar1997/)
