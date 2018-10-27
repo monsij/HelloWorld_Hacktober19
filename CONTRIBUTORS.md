@@ -41,6 +41,12 @@ I'm a student studying in Kwara State University, Nigeria. I'm a tech enthusiast
 - [Github](https://github.com/pariola)
 
 =======
+## Chathurika Senani:
+I'm a fresh graduate from Sri Lanka working as a front end developer currently.
+
+[Check out my GitHub](https://github.com/zenara/)
+
+=======
 # Appygal
 
 I am a front end developer and new to github and open source. I want to learn open source and contribute to non profit projects to help. 
