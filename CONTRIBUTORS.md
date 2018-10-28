@@ -3,7 +3,7 @@
 # Anurita Srivastava
 
 ## Whoami:
-I’m an Information Technology major undergraduate student currently residing in Chennai, India. I like to code, read, write  and dream to travel a lot! 
+I’m an Information Technology major undergraduate student currently residing in Chennai, India. I like to code, read, write  and dream to travel a lot!
 
 I work on iOS Development majorly, with two apps on the store. Data Analysis fascinates me and I hope to work on same in future. Like to code in Java and Python. Apart from that, I prefer working in the language best suited for the job.
 
@@ -49,13 +49,21 @@ I'm a fresh graduate from Sri Lanka working as a front end developer currently.
 =======
 # Appygal
 
-I am a front end developer and new to github and open source. I want to learn open source and contribute to non profit projects to help. 
+I am a front end developer and new to github and open source. I want to learn open source and contribute to non profit projects to help.
 
 - [Github](https://github.com/appygal)
 
 ======
 # Ahmed Saifulla
 
-I am a student, Full Stack developer and new to github and open source. 
+I am a student, Full Stack developer and new to github and open source.
 
 - [Github](https://github.com/ahmed-saifulla)
+
+=======
+# Lorenzo Pieri
+
+I’m a full-stack developer based in Florence!
+
+- [You can know more about me here](https://lorenzo.cf)
+- [GitHub](https://github.com/LRNZ09)
