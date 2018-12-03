@@ -1,5 +1,6 @@
-# List of contributors for Hactoberfest'18
+# List of contributors for Hactoberfest
 
+=======
 # Anurita Srivastava
 
 ## Whoami:
@@ -59,3 +60,9 @@ I am a front end developer and new to github and open source. I want to learn op
 I am a student, Full Stack developer and new to github and open source. 
 
 - [Github](https://github.com/ahmed-saifulla)
+
+# Pavit Kaur
+
+Place: Chandigarh
+Bio: A learner in Programming, budding writer , Happy-go-lucky person
+- [GitHub](https://github.com/PavitKaur05)
