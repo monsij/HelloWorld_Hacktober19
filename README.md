@@ -18,3 +18,4 @@ A simple repository to get beginners into the world of open source
 
 ![My First PR: Hacktoberfest](https://my-first-pr.github.io/assets/images/undraw_fall_is_coming_dg3x.svg)
 ![Hacktoberfest 2018](https://my-first-pr.github.io/assets/images/Hacktoberfest_2018_logo_lockup.png)
+
