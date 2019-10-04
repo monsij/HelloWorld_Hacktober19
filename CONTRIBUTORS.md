@@ -66,3 +66,12 @@ I am a student, Full Stack developer and new to github and open source.
 Place: Chandigarh
 Bio: A learner in Programming, budding writer , Happy-go-lucky person
 - [GitHub](https://github.com/PavitKaur05)
+# Masum Ahmed
+
+I’m an Android Developer and just made a career transition to tech from a business background from Bangalore, India. I am passionate about
+software development and love to solve unique problems.
+
+- [Twitter](https://twitter.com/ndroid_guy)
+- [Github](https://github/com/Jnerdva)
+
+=======
