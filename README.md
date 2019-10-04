@@ -13,7 +13,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/monsij/HelloWorld_Hacktober18.svg)
 
 # HelloWorld_Hacktober18
-A simple repository to get beginners into the world of open source
+A simple repository to get beginners into the world of open source.
 
 
 ![My First PR: Hacktoberfest](https://my-first-pr.github.io/assets/images/undraw_fall_is_coming_dg3x.svg)

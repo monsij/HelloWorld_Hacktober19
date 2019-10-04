@@ -66,3 +66,14 @@ I am a student, Full Stack developer and new to github and open source.
 Place: Chandigarh
 Bio: A learner in Programming, budding writer , Happy-go-lucky person
 - [GitHub](https://github.com/PavitKaur05)
+
+=======
+# Pavan Rajesh Gandhi
+
+I’m Pavan Rajesh Gandhi an undergrad CS Student at Ramanujan College(University of Delhi). I’m proactive learner and passionate about learning new skills and technologies. Currently I’m exploring Python for Data Science & JavaScript for Web Development (MERN Stack).
+
+- [My Website](https://iampavangandhi.github.io/)
+- [Github](https://github/com/iampavangandhi/)
+- [Linkedin](https://www.linkedin.com/in/pavan-gandhi/)
+
+=======
