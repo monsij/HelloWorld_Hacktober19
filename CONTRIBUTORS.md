@@ -66,3 +66,10 @@ I am a student, Full Stack developer and new to github and open source.
 Place: Chandigarh
 Bio: A learner in Programming, budding writer , Happy-go-lucky person
 - [GitHub](https://github.com/PavitKaur05)
+
+======
+# Mitarth Jain
+Bio: I am a Computer Science Engineering student, Data Science and Software development are my fields of interest.
+- [Github](https://github.com/mitarthjain)
+
+
