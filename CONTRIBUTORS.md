@@ -66,3 +66,10 @@ I am a student, Full Stack developer and new to github and open source.
 Place: Chandigarh
 Bio: A learner in Programming, budding writer , Happy-go-lucky person
 - [GitHub](https://github.com/PavitKaur05)
+
+======
+# Madhav Goyal
+
+I'm a final year Computer Engineering undergraduate currently residing in Patiala, Punjab. I like to work on ML, Web Development and Android App Development.
+
+-[Github](https://www.github.com/madhavgoyal98)
