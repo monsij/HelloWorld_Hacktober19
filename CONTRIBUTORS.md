@@ -66,3 +66,11 @@ I am a student, Full Stack developer and new to github and open source.
 Place: Chandigarh
 Bio: A learner in Programming, budding writer , Happy-go-lucky person
 - [GitHub](https://github.com/PavitKaur05)
+
+======
+# Kerem Hallac
+
+I am a Software Engineer, i love coding with Python, VueJS, Ruby. 
+
+- [Github](https://github.com/keremh)
+- [My Website](https://medium.com/@keremhallac)
