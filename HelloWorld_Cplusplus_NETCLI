@@ -1,0 +1,10 @@
+// Hello World in C++/CLI for .NET
+// Author: Viet Than
+// Email: thanhoangviet@gmail.com, viet.than@vanderbilt.edu
+
+using namespace System;
+
+void main()
+{
+    Console::WriteLine("Hello World");
+}
